@@ -3,6 +3,8 @@ A comparison study between OpenAI's o1 model and Google OR-Tools for optimizing 
 
 📺 [Watch the Tutorial Video](https://youtu.be/2ReIEWHLQbk)
 
+<img src="screenshots/select_model.png" width="75%" />
+
 ## Overview
 This project solves the challenge of creating optimal player rotations for a basketball team while respecting multiple constraints. It compares two different approaches:
 
