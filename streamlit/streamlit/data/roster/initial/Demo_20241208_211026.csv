@@ -1,0 +1,9 @@
+name,point_guard,beginner,starting
+player1,True,False,True
+player2,False,True,False
+player3,False,True,True
+player4,False,False,True
+player5,True,False,False
+player6,False,True,False
+player7,False,False,True
+player8,False,False,True
