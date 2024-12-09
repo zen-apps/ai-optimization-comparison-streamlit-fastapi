@@ -111,6 +111,7 @@ Deploy to Google Cloud Run:
 gcloud auth login
 gcloud config set project <your-project-id>
 
+cd streamlit
 gcloud builds submit --tag gcr.io/<your-project-id>/streamlit-app
 
 gcloud run deploy streamlit-app \
